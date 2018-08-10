@@ -1,0 +1,81 @@
+.headerBox {
+    border: 5px solid black;
+    margin: 10px;
+    height: 100px;
+}
+
+.small-squre {
+    background-color: rgb(36, 114, 182);
+    margin-bottom: 0px;
+    padding-bottom: 6px;
+    padding-right: 15px;
+    height: 61px;
+    width: 1px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-top: 19px;
+    margin-left: 19px;
+    border-bottom-width: 6px;
+    border-top-width: 0px;
+}
+
+.big-squre {
+    background-color: yellowgreen;
+    border: 3px solid red;
+    height: 70px;
+    width: 234px;
+    margin-top: 0px;
+    margin-left: 48px;
+    border-bottom-width: 0px;
+    border-top-width: 0px;
+
+}
+.circle {
+    background-color: red;
+    border-radius: 120px;
+    background: #73AD21;
+    width: 110px;
+    height: 108px; 
+    margin-top: 0px;
+    margin-left: 268px;
+    margin-bottom: 0px;
+}
+
+.middle-box {
+    border: 5px dotted black;
+    height: 100px;
+    width: 100%;
+    margin-top: 41px;
+    margin-bottom: 60px;
+}
+
+.inner-middle-box {
+    background-color: #73AD21;
+    margin-bottom: 7px;
+    padding-bottom: 6px;
+    border-top-width: 0px;
+    margin-top: 3px;
+    width: 1038.94;
+    height: 70px;
+    padding-top: 12px;
+    padding-left: 21px;
+    box-shadow: 1px 10px #888888;
+}
+
+.last-box {
+    border: 1px solid grey;
+    height: 250px;
+    width: 550px;
+    margin-left: 200px;
+    margin-top: 39px;
+    margin-bottom: 89px;
+}
+
+h3 {
+    font-size: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    
+    margin-top: 70px;
+
+}

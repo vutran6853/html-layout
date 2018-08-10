@@ -1,0 +1,51 @@
+.main-box {
+    background-color: yellowgreen;
+    height: 100px;
+    width: 100%;
+    border: 5px solid red;
+}
+
+.innder-main-box {
+    border: 5px solid rgb(110, 54, 54);
+    background-color: yellowgreen;
+
+    margin-top: 0px;
+    width: 104px;
+    height: 64px;
+    padding-left: 38px;
+    margin-left: 31px;
+}
+.secend-layer-box {
+    background-color: aliceblue;
+    border: 1px solid red;
+    height: 200px;
+    text-align: left;
+}
+
+.secend-layer-box p {
+    margin-top: 56px;
+    width: 1328px;
+    margin-left: 94px;
+    height: 92px;
+}
+
+.lightblue-box {
+    background-color: rgb(51, 122, 185);
+    height: 150px;
+    text-align: center;   
+}
+
+.lightgrey-box {
+    background-color: rgb(213, 196, 219);
+    height: 150px;
+}
+
+.lightgreen-box {
+    background-color: rgb(14, 221, 135);
+    height: 150px;
+}
+
+.lightorange-box {
+    background-color: rgb(124, 221, 14);
+    height: 150px;
+}
